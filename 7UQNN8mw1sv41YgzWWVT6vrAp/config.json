@@ -1,0 +1,19 @@
+{
+  "picBed": {
+    "uploader": "githubPlus",
+    "current": "githubPlus",
+    "githubPlus": {
+      "repo": "snail123815/LaEwljD9aXfwYetbPuAoBLV9I",
+      "branch": "main",
+      "token": "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",
+      "path": "7UQNN8mw1sv41YgzWWVT6vrAp",
+      "origin": "github"
+    }
+  },
+  "picgoPlugins": {
+    "picgo-plugin-github-plus": true
+  },
+  "picgo-plugin-github-plus": {
+    "lastSync": "2022-02-18 09:37:17"
+  }
+}
