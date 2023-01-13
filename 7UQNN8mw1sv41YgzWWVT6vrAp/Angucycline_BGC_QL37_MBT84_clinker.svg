@@ -1,0 +1,4524 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   class="clusterMap"
+   id="root-svg"
+   cursor="grab"
+   width="1020.6301"
+   height="210.95125"
+   version="1.1"
+   sodipodi:docname="clinker (1).svg"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7940"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="549.42197"
+     inkscape:cy="14.849242"
+     inkscape:window-width="1390"
+     inkscape:window-height="951"
+     inkscape:window-x="2210"
+     inkscape:window-y="462"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="root-svg" />
+  <defs
+     id="defs6926">
+    <marker
+       style="overflow:visible"
+       id="Dot"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Dot"
+       markerWidth="5.6666665"
+       markerHeight="5.6666665"
+       viewBox="0 0 5.6666667 5.6666667"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5,0 C 5,2.76 2.76,5 0,5 -2.76,5 -5,2.76 -5,0 c 0,-2.76 2.3,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="Dot1"
+         sodipodi:nodetypes="sssss" />
+    </marker>
+    <filter
+       id="filter_solid"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feFlood
+         flood-color="rgba(0, 0, 0, 0.8)"
+         id="feFlood6921"
+         result="result1" />
+      <feComposite
+         in="SourceGraphic"
+         in2="result1"
+         id="feComposite6923" />
+    </filter>
+  </defs>
+  <g
+     id="gene_bab5303e-0c54-4cc4-af02-4b35f90ae5ff"
+     class="gene"
+     display="none"
+     transform="translate(-241.49012,19.111442)">
+    <polygon
+       class="genePolygon"
+       points="25.524,5 11.982,5 11.982,0 -0.018,11 11.982,22 11.982,17 25.524,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7032" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,1.8612917,-29.742236)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7034">WP_104785751.1</text>
+  </g>
+  <g
+     id="gene_fbe5995f-c736-4131-adb1-c77f259204c7"
+     class="gene"
+     display="none"
+     transform="translate(-241.49012,19.111442)">
+    <polygon
+       class="genePolygon"
+       points="37.512,0 29.844,11 37.512,22 37.512,17 37.512,5 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7037" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,12.323791,-76.935519)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7039">WP_104785753.1</text>
+  </g>
+  <g
+     id="gene_64fe8abd-cbf6-44ca-a0e9-0514ee976b98"
+     class="gene"
+     display="none"
+     transform="translate(-241.49012,19.111442)">
+    <polygon
+       class="genePolygon"
+       points="76.194,5 52.284,5 52.284,0 40.284,11 52.284,22 52.284,17 76.194,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7042" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,24.604291,-132.32928)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7044">WP_104785755.1</text>
+  </g>
+  <g
+     id="gene_6ac30144-e6ec-456a-a4b1-fd2cf0783bea"
+     class="gene"
+     display="none"
+     transform="translate(-241.49012,19.111442)">
+    <polygon
+       class="genePolygon"
+       points="105.714,5 88.122,5 88.122,0 76.122,11 88.122,22 88.122,17 105.714,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7047" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,40.94379,-206.03199)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7049">WP_104785756.1</text>
+  </g>
+  <g
+     id="gene_d09871ba-8ba6-4fb5-85f7-c78788338348"
+     class="gene"
+     display="none"
+     transform="translate(-241.49012,19.111442)">
+    <polygon
+       class="genePolygon"
+       points="141.192,5 128.19,5 128.19,0 116.19,11 128.19,22 128.19,17 141.192,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7052" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,59.830295,-291.22351)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7054">WP_104785758.1</text>
+  </g>
+  <g
+     id="gene_e7deeae4-f983-4a3b-ad3f-cfa53f20a7c6"
+     class="gene"
+     display="none"
+     transform="translate(-241.49012,19.111442)">
+    <polygon
+       class="genePolygon"
+       points="144.738,0 141.174,11 144.738,22 144.738,17 144.738,5 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7057" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,66.962795,-323.39614)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7059">WP_099172630.1</text>
+  </g>
+  <g
+     id="gene_f617e8c4-f7cb-46a3-84dd-967dca4c9612"
+     class="gene"
+     display="none"
+     transform="translate(-241.49012,19.111442)">
+    <polygon
+       class="genePolygon"
+       points="170.118,5 159.654,5 159.654,0 147.654,11 159.654,22 159.654,17 170.118,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7062" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,74.927791,-359.32391)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7064">WP_104785759.1</text>
+  </g>
+  <g
+     id="gene_a67555ff-721e-45b3-8dbf-0292aafd3ffc"
+     class="gene"
+     display="none"
+     transform="translate(-241.49012,19.111442)">
+    <polygon
+       class="genePolygon"
+       points="176.364,0 170.046,11 176.364,22 176.364,17 176.364,5 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7067" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,82.087291,-391.61833)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7069">WP_104785761.1</text>
+  </g>
+  <g
+     id="gene_85f83b0e-2495-487b-87bd-4368f60040f3"
+     class="gene"
+     display="none"
+     transform="translate(-241.49012,19.111442)">
+    <polygon
+       class="genePolygon"
+       points="192.33,5 188.292,5 188.292,0 176.292,11 188.292,22 188.292,17 192.33,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7072" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,87.640292,-416.6663)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7074">WP_104785762.1</text>
+  </g>
+  <g
+     id="gene_e65feec0-c733-4fb4-b545-0cb9adeef271"
+     class="gene"
+     display="none"
+     transform="translate(-241.49012,19.111442)">
+    <polygon
+       class="genePolygon"
+       points="205.434,5 204.258,5 204.258,0 192.258,11 204.258,22 204.258,17 205.434,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7077" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,94.907794,-449.44789)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7079">WP_104785764.1</text>
+  </g>
+  <g
+     id="gene_a304de93-2b09-45c6-a9c7-ddd1287e86e9"
+     class="gene"
+     display="none"
+     transform="translate(-241.49012,19.111442)">
+    <polygon
+       class="genePolygon"
+       points="210.042,0 206.91,11 210.042,22 210.042,17 210.042,5 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7082" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,99.722789,-471.16692)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7084">WP_187355740.1</text>
+  </g>
+  <g
+     id="gene_c3584d9d-5426-4382-ad5f-c7d7cffc8020"
+     class="gene"
+     display="none"
+     transform="translate(-241.49012,19.111442)">
+    <polygon
+       class="genePolygon"
+       points="218.736,0 210.312,11 218.736,22 218.736,17 218.736,5 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7087" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,102.74679,-484.80732)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7089">WP_104785765.1</text>
+  </g>
+  <g
+     id="gene_b926fb64-b73b-4c7e-ba26-842624366724"
+     class="gene"
+     display="none"
+     transform="translate(-241.49012,19.111442)">
+    <polygon
+       class="genePolygon"
+       points="260.352,5 234.714,5 234.714,0 222.714,11 234.714,22 234.714,17 260.352,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7092" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,116.25129,-545.72218)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7094">WP_104785767.1</text>
+  </g>
+  <g
+     id="gene_c6e29f99-7801-4c6a-b870-4a8b85e0c024"
+     class="gene"
+     display="none"
+     transform="translate(-241.49012,19.111442)">
+    <polygon
+       class="genePolygon"
+       points="286.992,5 272.37,5 272.37,0 260.37,11 272.37,22 272.37,17 286.992,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7097" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,132.32529,-618.2273)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7099">WP_146111252.1</text>
+  </g>
+  <g
+     id="gene_29546fce-0395-4db1-b293-6a87ce411030"
+     class="gene"
+     display="none"
+     transform="translate(-241.49012,19.111442)">
+    <polygon
+       class="genePolygon"
+       points="300.42,0 304.038,11 300.42,22 300.42,17 300.42,5 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7102" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,146.59929,-682.61316)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7104">C5F59_RS12815</text>
+  </g>
+  <g
+     id="gene_ac2e4e16-0c2a-4d22-9573-b95d5747083e"
+     class="gene"
+     display="none"
+     transform="translate(-241.49012,19.111442)">
+    <polygon
+       class="genePolygon"
+       points="304.83,0 308.61,11 304.83,22 304.83,17 304.83,5 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7107" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,148.84479,-692.74195)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7109">WP_104785770.1</text>
+  </g>
+  <g
+     id="gene_ea0c5767-3816-4662-8102-cb7867428aca"
+     class="gene"
+     display="none"
+     transform="translate(-241.49012,19.111442)">
+    <polygon
+       class="genePolygon"
+       points="316.854,0 313.074,11 316.854,22 316.854,17 316.854,5 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7112" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,152.96678,-711.33507)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7114">WP_104785770.1</text>
+  </g>
+  <g
+     id="gene_80934dd0-b7c6-47f1-a0f0-52f5373cb396"
+     class="gene"
+     display="none"
+     transform="translate(-241.49012,19.111442)">
+    <polygon
+       class="genePolygon"
+       points="323.748,0 317.646,11 323.748,22 323.748,17 323.748,5 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7117" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,155.83329,-724.26502)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7119">WP_104785772.1</text>
+  </g>
+  <g
+     id="gene_bd2dcb2b-f2cc-46d9-91c1-fea26d28ae30"
+     class="gene"
+     display="none"
+     transform="translate(-241.49012,19.111442)">
+    <polygon
+       class="genePolygon"
+       points="341.766,5 335.676,5 335.676,0 323.676,11 335.676,22 335.676,17 341.766,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7122" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,161.84529,-751.38344)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7124">WP_146111253.1</text>
+  </g>
+  <g
+     id="gene_4571441b-900e-45eb-b829-46ab73de0d86"
+     class="gene"
+     display="none"
+     transform="translate(-241.49012,19.111442)">
+    <polygon
+       class="genePolygon"
+       points="350.064,0 341.694,11 350.064,22 350.064,17 350.064,5 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7127" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,168.42429,-781.05936)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7129">WP_104785775.1</text>
+  </g>
+  <g
+     id="gene_b4901c87-795b-4a7e-83ed-eba44af0e245"
+     class="gene"
+     display="none"
+     transform="translate(-241.49012,19.111442)">
+    <polygon
+       class="genePolygon"
+       points="355.446,0 349.992,11 355.446,22 355.446,17 355.446,5 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7132" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,171.84429,-796.48598)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7134">WP_104785776.1</text>
+  </g>
+  <g
+     id="gene_88a92136-9097-4db2-8356-fe44bc264d37"
+     class="gene"
+     display="none"
+     transform="translate(-241.49012,19.111442)">
+    <polygon
+       class="genePolygon"
+       points="1038.276,5 994.548,5 994.548,0 982.548,11 994.548,22 994.548,17 1038.276,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7297" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,500.6908,-2279.8167)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7299">WP_262346735.1</text>
+  </g>
+  <g
+     id="gene_60f5b54d-2f9c-4ede-af96-680bb19ee907"
+     class="gene"
+     display="none"
+     transform="translate(-241.49012,19.111442)">
+    <polygon
+       class="genePolygon"
+       points="1045.08,5 1080.006,5 1080.006,0 1092.006,11 1080.006,22 1080.006,17 1045.08,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7302" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,529.75632,-2410.9228)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7304">WP_104785820.1</text>
+  </g>
+  <g
+     id="gene_f6dccad7-752d-4bfd-a430-1223e74cc1cf"
+     class="gene"
+     display="none"
+     transform="translate(-241.49012,19.111442)">
+    <polygon
+       class="genePolygon"
+       points="1092.96,5 1142.196,5 1142.196,0 1154.196,11 1142.196,22 1142.196,17 1092.96,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7307" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,557.27378,-2535.0461)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7309">WP_104785821.1</text>
+  </g>
+  <g
+     id="gene_3f9b869b-23e3-4a7a-ba01-264014a0b93c"
+     class="gene"
+     display="none"
+     transform="translate(-241.49012,19.111442)">
+    <polygon
+       class="genePolygon"
+       points="1154.79,5 1201.812,5 1201.812,0 1213.812,11 1201.812,22 1201.812,17 1154.79,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7312" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,587.63529,-2671.998)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7314">WP_104785823.1</text>
+  </g>
+  <g
+     id="gene_b22d5d81-ede6-4a3a-b371-678d65f33609"
+     class="gene"
+     display="none"
+     transform="translate(-241.49012,19.111442)">
+    <polygon
+       class="genePolygon"
+       points="1215.864,0 1225.854,11 1215.864,22 1215.864,17 1215.864,5 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7317" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,605.91428,-2754.4492)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7319">WP_104785824.1</text>
+  </g>
+  <g
+     id="gene_53937de5-b8df-4d17-8004-79853e2132e7"
+     class="gene"
+     display="none"
+     transform="translate(-241.49012,19.111442)">
+    <polygon
+       class="genePolygon"
+       points="1230.228,5 1245.66,5 1245.66,0 1257.66,11 1245.66,22 1245.66,17 1230.228,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7322" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,617.45682,-2806.5142)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7324">WP_104785825.1</text>
+  </g>
+  <g
+     class="legend"
+     transform="translate(825.28431,-372.62571)"
+     id="g7904"
+     style="display:none">
+    <g
+       class="element"
+       id="g7842">
+      <circle
+         class="group-be5af633-cb85-4713-a4a1-df1b8ae1e8f0"
+         cy="4.7142859"
+         r="4.7142859"
+         fill="#6e40aa"
+         cursor="pointer"
+         id="circle7838"
+         cx="0" />
+      <text
+         x="10.714286"
+         text-anchor="start"
+         y="5.7142859"
+         cursor="pointer"
+         style="font-size:14px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;dominant-baseline:middle"
+         id="text7840">Group 0</text>
+    </g>
+    <g
+       class="element"
+       transform="translate(0,18.857143)"
+       id="g7848">
+      <circle
+         class="group-d8579973-3844-438b-b745-731e8a8f13d7"
+         cy="4.7142859"
+         r="4.7142859"
+         fill="#b83cb0"
+         cursor="pointer"
+         id="circle7844"
+         cx="0" />
+      <text
+         x="10.714286"
+         text-anchor="start"
+         y="5.7142859"
+         cursor="pointer"
+         style="font-size:14px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;dominant-baseline:middle"
+         id="text7846">Group 1</text>
+    </g>
+    <g
+       class="element"
+       transform="translate(0,37.714286)"
+       id="g7854">
+      <circle
+         class="group-0ea1557a-c698-4b05-aabf-ec720a71d1c2"
+         cy="4.7142859"
+         r="4.7142859"
+         fill="#f6478d"
+         cursor="pointer"
+         id="circle7850"
+         cx="0" />
+      <text
+         x="10.714286"
+         text-anchor="start"
+         y="5.7142859"
+         cursor="pointer"
+         style="font-size:14px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;dominant-baseline:middle"
+         id="text7852">Group 2</text>
+    </g>
+    <g
+       class="element"
+       transform="translate(0,56.571429)"
+       id="g7860">
+      <circle
+         class="group-f89fe4ea-d3e7-49e7-a80b-e3b4d8ad0666"
+         cy="4.7142859"
+         r="4.7142859"
+         fill="#ff6956"
+         cursor="pointer"
+         id="circle7856"
+         cx="0" />
+      <text
+         x="10.714286"
+         text-anchor="start"
+         y="5.7142859"
+         cursor="pointer"
+         style="font-size:14px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;dominant-baseline:middle"
+         id="text7858">Group 3</text>
+    </g>
+    <g
+       class="element"
+       transform="translate(0,75.428571)"
+       id="g7866">
+      <circle
+         class="group-df0b3bfc-87dc-49f0-b84c-c758e1394c5f"
+         cy="4.7142859"
+         r="4.7142859"
+         fill="#f59f30"
+         cursor="pointer"
+         id="circle7862"
+         cx="0" />
+      <text
+         x="10.714286"
+         text-anchor="start"
+         y="5.7142859"
+         cursor="pointer"
+         style="font-size:14px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;dominant-baseline:middle"
+         id="text7864">Group 4</text>
+    </g>
+    <g
+       class="element"
+       transform="translate(0,94.285714)"
+       id="g7872">
+      <circle
+         class="group-f2f9a8dc-fd74-41f5-a37f-71544023ac84"
+         cy="4.7142859"
+         r="4.7142859"
+         fill="#c4d93e"
+         cursor="pointer"
+         id="circle7868"
+         cx="0" />
+      <text
+         x="10.714286"
+         text-anchor="start"
+         y="5.7142859"
+         cursor="pointer"
+         style="font-size:14px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;dominant-baseline:middle"
+         id="text7870">Group 5</text>
+    </g>
+    <g
+       class="element"
+       transform="translate(0,113.14286)"
+       id="g7878">
+      <circle
+         class="group-c07efc9d-e3b5-406d-81c5-ea71a61f767b"
+         cy="4.7142859"
+         r="4.7142859"
+         fill="#83f557"
+         cursor="pointer"
+         id="circle7874"
+         cx="0" />
+      <text
+         x="10.714286"
+         text-anchor="start"
+         y="5.7142859"
+         cursor="pointer"
+         style="font-size:14px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;dominant-baseline:middle"
+         id="text7876">Group 6</text>
+    </g>
+    <g
+       class="element"
+       transform="translate(0,132)"
+       id="g7884">
+      <circle
+         class="group-319f77c1-74f8-401e-9fa0-14a1486c9415"
+         cy="4.7142859"
+         r="4.7142859"
+         fill="#38f17a"
+         cursor="pointer"
+         id="circle7880"
+         cx="0" />
+      <text
+         x="10.714286"
+         text-anchor="start"
+         y="5.7142859"
+         cursor="pointer"
+         style="font-size:14px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;dominant-baseline:middle"
+         id="text7882">Group 7</text>
+    </g>
+    <g
+       class="element"
+       transform="translate(0,150.85714)"
+       id="g7890">
+      <circle
+         class="group-9c21bd87-0547-4e38-ae65-617d9ac12b1a"
+         cy="4.7142859"
+         r="4.7142859"
+         fill="#19d3b5"
+         cursor="pointer"
+         id="circle7886"
+         cx="0" />
+      <text
+         x="10.714286"
+         text-anchor="start"
+         y="5.7142859"
+         cursor="pointer"
+         style="font-size:14px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;dominant-baseline:middle"
+         id="text7888">Group 8</text>
+    </g>
+    <g
+       class="element"
+       transform="translate(0,169.71429)"
+       id="g7896">
+      <circle
+         class="group-2c694dff-6bd8-4597-b8f5-4d3710b9da34"
+         cy="4.7142859"
+         r="4.7142859"
+         fill="#29a0dd"
+         cursor="pointer"
+         id="circle7892"
+         cx="0" />
+      <text
+         x="10.714286"
+         text-anchor="start"
+         y="5.7142859"
+         cursor="pointer"
+         style="font-size:14px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;dominant-baseline:middle"
+         id="text7894">Group 9</text>
+    </g>
+    <g
+       class="element"
+       transform="translate(0,188.57143)"
+       id="g7902">
+      <circle
+         class="group-0cbaa3bf-b366-4be8-b988-793c38895f94"
+         cy="4.7142859"
+         r="4.7142859"
+         fill="#5069d9"
+         cursor="pointer"
+         id="circle7898"
+         cx="0" />
+      <text
+         x="10.714286"
+         text-anchor="start"
+         y="5.7142859"
+         cursor="pointer"
+         style="font-size:14px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;dominant-baseline:middle"
+         id="text7900">Group 10</text>
+    </g>
+  </g>
+  <g
+     id="link-f703a248-e6b8-47a4-9157-c6dfbda07758"
+     class="geneLinkG"
+     opacity="1"
+     transform="translate(-260.16041,19.111442)">
+    <path
+       class="geneLink"
+       d="m 445.23427,11 c 0,41 77.1414,41 77.1414,82 h 10.8 c 0,-41 -77.1954,-41 -77.1954,-82 h -10.746"
+       style="fill:#a0a0a0;stroke:#000000;stroke-width:0.5px"
+       id="path6933" />
+    <text
+       class="geneLinkLabel"
+       opacity="0"
+       filter="url(#filter_solid)"
+       x="489.19147"
+       y="52"
+       style="font-size:10px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text6935">0.47</text>
+  </g>
+  <g
+     id="link-ed7325b4-c23d-4e70-b5f2-9bcc3dec9c90"
+     class="geneLinkG"
+     opacity="1"
+     transform="translate(-260.16041,19.111442)">
+    <path
+       class="geneLink"
+       d="m 821.45227,11 c 0,41 -299.0766,41 -299.0766,82 h 10.8 c 0,-41 277.7466,-41 277.7466,-82 h 10.53"
+       style="fill:#848484;stroke:#000000;stroke-width:0.5px"
+       opacity="1"
+       id="path6938" />
+    <text
+       class="geneLinkLabel"
+       opacity="0"
+       filter="url(#filter_solid)"
+       x="671.98145"
+       y="52"
+       style="font-size:10px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text6940">0.56</text>
+  </g>
+  <g
+     id="link-5f3d7e9a-fdfb-4abb-993c-343f513d4de7"
+     class="geneLinkG"
+     opacity="1"
+     transform="translate(-260.16041,19.111442)">
+    <path
+       class="geneLink"
+       d="m 609.44827,11 c 0,41 -10.8786,41 -10.8786,82 h -26.622 c 0,-41 11.0406,-41 11.0406,-82 h 26.46"
+       style="fill:#666666;stroke:#000000;stroke-width:0.5px"
+       opacity="1"
+       id="path6943" />
+    <text
+       class="geneLinkLabel"
+       opacity="0"
+       filter="url(#filter_solid)"
+       x="590.73846"
+       y="52"
+       style="font-size:10px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text6945">0.67</text>
+  </g>
+  <g
+     id="link-289dc146-2dca-4822-a7e8-51be1b5ecccd"
+     class="geneLinkG"
+     opacity="1"
+     transform="translate(-260.16041,19.111442)">
+    <path
+       class="geneLink"
+       d="m 618.62827,11 c 0,41 -13.7766,41 -13.7766,82 h -5.886 c 0,-41 13.7766,-41 13.7766,-82 h 5.886"
+       style="fill:#444444;stroke:#000000;stroke-width:0.5px"
+       opacity="1"
+       id="path6953" />
+    <text
+       class="geneLinkLabel"
+       opacity="0"
+       filter="url(#filter_solid)"
+       x="608.797"
+       y="52"
+       style="font-size:10px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text6955">0.79</text>
+  </g>
+  <g
+     id="link-cd2541e1-f1fa-4cbb-b3ba-376688342d31"
+     class="geneLinkG"
+     opacity="1"
+     transform="translate(-260.16041,19.111442)">
+    <path
+       class="geneLink"
+       d="m 641.61427,11 c 0,41 -13.7766,41 -13.7766,82 h -23.058 c 0,-41 13.7766,-41 13.7766,-82 h 23.058"
+       style="fill:#353535;stroke:#000000;stroke-width:0.5px"
+       opacity="1"
+       id="path6958" />
+    <text
+       class="geneLinkLabel"
+       opacity="0"
+       filter="url(#filter_solid)"
+       x="623.19696"
+       y="52"
+       style="font-size:10px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text6960">0.83</text>
+  </g>
+  <g
+     id="link-2f914f4a-86e3-431b-b5f6-5d19f3da4602"
+     class="geneLinkG"
+     opacity="1"
+     transform="translate(-260.16041,19.111442)">
+    <path
+       class="geneLink"
+       d="m 663.52027,11 c 0,41 -13.6686,41 -13.6686,82 h -22.086 c 0,-41 13.7766,-41 13.7766,-82 h 21.978"
+       style="fill:#5a5a5a;stroke:#000000;stroke-width:0.5px"
+       opacity="1"
+       id="path6973" />
+    <text
+       class="geneLinkLabel"
+       opacity="0"
+       filter="url(#filter_solid)"
+       x="645.66998"
+       y="52"
+       style="font-size:10px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text6975">0.72</text>
+  </g>
+  <g
+     id="link-c7adc32f-bb79-40e5-8c1f-feda6bcb3c24"
+     class="geneLinkG"
+     opacity="1"
+     transform="translate(-260.16041,19.111442)">
+    <path
+       class="geneLink"
+       d="m 669.92827,11 c 0,41 -11.9046,41 -11.9046,82 h -4.86 c 0,-41 11.8506,-41 11.8506,-82 h 4.914"
+       style="fill:#808080;stroke:#000000;stroke-width:0.5px"
+       opacity="1"
+       id="path6978" />
+    <text
+       class="geneLinkLabel"
+       opacity="0"
+       filter="url(#filter_solid)"
+       x="661.53247"
+       y="52"
+       style="font-size:10px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text6980">0.58</text>
+  </g>
+  <g
+     id="link-049c1267-215c-4f4b-a514-3570ea451234"
+     class="geneLinkG"
+     opacity="1"
+     transform="translate(-260.16041,19.111442)">
+    <path
+       class="geneLink"
+       d="m 685.35427,11 c 0,41 -8.7006,41 -8.7006,82 h -14.148 c 0,-41 8.7006,-41 8.7006,-82 h 14.148"
+       style="fill:#3d3d3d;stroke:#000000;stroke-width:0.5px"
+       opacity="1"
+       id="path6983" />
+    <text
+       class="geneLinkLabel"
+       opacity="0"
+       filter="url(#filter_solid)"
+       x="673.92999"
+       y="52"
+       style="font-size:10px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text6985">0.81</text>
+  </g>
+  <g
+     id="link-517a153c-6682-4bd9-a31e-3a644923907e"
+     class="geneLinkG"
+     opacity="1"
+     transform="translate(-260.16041,19.111442)">
+    <path
+       class="geneLink"
+       d="m 703.15627,11 c 0,41 -8.9166,41 -8.9166,82 h -16.848 c 0,-41 8.7006,-41 8.7006,-82 h 17.064"
+       style="fill:#666666;stroke:#000000;stroke-width:0.5px"
+       opacity="1"
+       id="path6988" />
+    <text
+       class="geneLinkLabel"
+       opacity="0"
+       filter="url(#filter_solid)"
+       x="690.21997"
+       y="52"
+       style="font-size:10px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text6990">0.67</text>
+  </g>
+  <g
+     id="link-1fa16320-7b43-4d99-8966-2f8f952d1a64"
+     class="geneLinkG"
+     opacity="1"
+     transform="translate(-260.16041,19.111442)">
+    <path
+       class="geneLink"
+       d="m 738.63427,11 c 0,41 -8.3946,41 -8.3946,82 h -35.964 c 0,-41 8.9346,-41 8.9346,-82 h 35.424"
+       style="fill:#747474;stroke:#000000;stroke-width:0.5px"
+       opacity="1"
+       id="path6998" />
+    <text
+       class="geneLinkLabel"
+       opacity="0"
+       filter="url(#filter_solid)"
+       x="716.58997"
+       y="52"
+       style="font-size:10px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text7000">0.62</text>
+  </g>
+  <g
+     id="link-15925854-7d0b-4b19-8aec-696a3def5f09"
+     class="geneLinkG"
+     opacity="1"
+     transform="translate(-260.16041,19.111442)">
+    <path
+       class="geneLink"
+       d="m 810.68827,11 c 0,41 -58.2186,41 -58.2186,82 h -21.87 c 0,-41 57.5706,-41 57.5706,-82 h 22.518"
+       style="fill:#818181;stroke:#000000;stroke-width:0.5px"
+       opacity="1"
+       id="path7003" />
+    <text
+       class="geneLinkLabel"
+       opacity="0"
+       filter="url(#filter_solid)"
+       x="770.48199"
+       y="52"
+       style="font-size:10px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text7005">0.58</text>
+  </g>
+  <g
+     id="link-1f13c9cd-639c-4bc8-9f9c-3bbe0011f430"
+     class="geneLinkG"
+     opacity="1"
+     transform="translate(-260.16041,19.111442)">
+    <path
+       class="geneLink"
+       d="m 783.43627,11 c 0,41 245.27943,41 245.27943,82 h -28.674 c 0,-41 -244.25343,-41 -244.25343,-82 h 27.648"
+       style="fill:#4d4d4d;stroke:#000000;stroke-width:0.5px"
+       opacity="1"
+       id="path7008" />
+    <text
+       class="geneLinkLabel"
+       opacity="0"
+       filter="url(#filter_solid)"
+       x="891.99548"
+       y="52"
+       style="font-size:10px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text7010">0.76</text>
+  </g>
+  <g
+     id="link-2e082cc8-3d95-4d05-9213-746aaa716940"
+     class="geneLinkG"
+     opacity="1"
+     transform="translate(-260.16041,19.111442)">
+    <path
+       class="geneLink"
+       d="m 864.45427,11 c 0,41 228.32343,41 228.32343,82 h 12.906 c 0,-41 -255.64743,-41 -255.64743,-82 h 14.418"
+       style="fill:#a9a9a9;stroke:#000000;stroke-width:0.5px"
+       opacity="1"
+       id="path7013" />
+    <text
+       class="geneLinkLabel"
+       opacity="0"
+       filter="url(#filter_solid)"
+       x="978.23798"
+       y="52"
+       style="font-size:10px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text7015">0.44</text>
+  </g>
+  <text
+     class="clusterText"
+     y="27.11145"
+     cursor="pointer"
+     text-anchor="end"
+     style="font-weight:bold;font-size:12px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+     id="text7025"
+     x="117.41984">QL37.c1.region012</text>
+  <text
+     class="locusText"
+     y="31.11145"
+     text-anchor="end"
+     style="font-size:10px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;dominant-baseline:hanging"
+     id="text7027"
+     x="117.41984">Lugdunomycin cluster</text>
+  <line
+     class="trackBar"
+     x1="127.41984"
+     x2="739.11389"
+     y1="30.11145"
+     y2="30.11145"
+     style="fill:#111111;stroke:#111111;stroke-width:1"
+     id="line7030" />
+  <g
+     id="gene_77804ccb-e509-4eea-aa38-0b24ad2caa1a"
+     class="gene"
+     display="inline"
+     transform="translate(-241.49014,19.111442)">
+    <polygon
+       class="genePolygon"
+       points="377.376,22 377.376,17 368.91,17 368.91,5 377.376,5 377.376,0 389.376,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7137" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,185.05629,-856.08148)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7139">WP_187355741.1</text>
+  </g>
+  <g
+     id="gene_30292120-b5a0-4c27-a2e1-5b6f11b8fc56"
+     class="gene"
+     display="inline"
+     transform="translate(-241.49014,19.111442)">
+    <polygon
+       class="genePolygon"
+       points="401.07,22 401.07,17 403.38,17 403.38,5 401.07,5 401.07,0 389.07,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7142" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,193.59729,-894.60745)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7144">WP_104791672.1</text>
+  </g>
+  <g
+     id="gene_c93120c4-29a5-44af-911f-05429af408c0"
+     class="gene"
+     display="inline"
+     transform="translate(-241.49014,19.111442)">
+    <polygon
+       class="genePolygon"
+       points="421.362,5 421.362,0 413.586,11 421.362,22 421.362,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7147" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,204.22179,-942.53145)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7149">WP_104785778.1</text>
+  </g>
+  <g
+     id="gene_be40db0d-2304-471b-bac8-b11d67b50084"
+     class="gene"
+     display="inline"
+     transform="translate(-241.49014,19.111442)">
+    <polygon
+       class="genePolygon group-d8579973-3844-438b-b745-731e8a8f13d7"
+       points="437.31,5 437.31,0 426.564,11 437.31,22 437.31,17 "
+       fill="#b83cb0"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7152" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,211.4533,-975.15067)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7154">WP_104785779.1</text>
+  </g>
+  <g
+     id="gene_ab734331-47b3-4dc1-b134-20b1fe272bb8"
+     class="gene"
+     display="inline"
+     transform="translate(-241.49014,19.111442)"
+     style="stroke:#008000">
+    <polygon
+       class="genePolygon"
+       points="442.446,22 442.446,17 439.326,17 439.326,5 442.446,5 442.446,0 454.446,11 "
+       fill="#bbbbbb"
+       style="stroke:#008000;stroke-width:1"
+       id="polygon7157" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,218.9278,-1008.866)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;stroke:#008000"
+       id="text7159">WP_104785781.1</text>
+  </g>
+  <g
+     id="gene_4e704e47-0134-4606-819c-a9499354614d"
+     class="gene"
+     display="inline"
+     transform="translate(-241.49014,19.111442)"
+     style="stroke:#008000">
+    <polygon
+       class="genePolygon"
+       points="465.336,5 465.336,0 455.076,11 465.336,22 465.336,17 "
+       fill="#bbbbbb"
+       style="stroke:#008000;stroke-width:1"
+       id="polygon7162" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,225.58779,-1038.9072)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;stroke:#008000"
+       id="text7164">WP_222848415.1</text>
+  </g>
+  <g
+     id="gene_c40894fd-fc3e-4889-ae61-5723fa6d25e1"
+     class="gene"
+     display="inline"
+     transform="translate(-241.49014,19.111442)"
+     style="stroke:#008000">
+    <polygon
+       class="genePolygon"
+       points="489.018,22 489.018,17 489.924,17 489.924,5 489.018,5 489.018,0 477.018,11 "
+       fill="#bbbbbb"
+       style="stroke:#008000;stroke-width:1"
+       id="polygon7167" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,237.22029,-1091.3781)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;stroke:#008000"
+       id="text7169">WP_104785784.1</text>
+  </g>
+  <g
+     id="gene_e07da5dd-42d5-46da-ab0f-5867de4eb827"
+     class="gene"
+     display="inline"
+     transform="translate(-241.49014,19.111442)">
+    <polygon
+       class="genePolygon group-be5af633-cb85-4713-a4a1-df1b8ae1e8f0"
+       points="507.174,22 507.174,17 492.552,17 492.552,5 507.174,5 507.174,0 519.174,11 "
+       fill="#6e40aa"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7172" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,248.41629,-1141.88)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7174">WP_104785785.1</text>
+  </g>
+  <g
+     id="gene_c782e324-788b-4666-8812-30b6f16923ab"
+     class="gene"
+     display="inline"
+     transform="translate(-241.49014,19.111442)">
+    <polygon
+       class="genePolygon"
+       points="522.63,5 522.63,0 530.298,11 522.63,22 522.63,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7177" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,258.7168,-1188.3426)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7179">WP_104785787.1</text>
+  </g>
+  <g
+     id="gene_76c7ebd9-8057-470d-bcd9-e61d12b07bfd"
+     class="gene"
+     display="inline"
+     transform="translate(-241.49014,19.111442)">
+    <polygon
+       class="genePolygon"
+       points="551.148,22 551.148,17 544.464,17 544.464,5 551.148,5 551.148,0 563.148,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7182" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,272.38779,-1250.0084)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7184">WP_187355742.1</text>
+  </g>
+  <g
+     id="gene_d4d25d8d-5018-4c2a-abe2-eaddec78e4d9"
+     class="gene"
+     display="inline"
+     transform="translate(-241.49014,19.111442)">
+    <polygon
+       class="genePolygon group-0ea1557a-c698-4b05-aabf-ec720a71d1c2"
+       points="578.778,22 578.778,17 564.318,17 564.318,5 578.778,5 578.778,0 590.778,11 "
+       fill="#f6478d"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7187" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,284.25879,-1303.555)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7189">WP_104785789.1</text>
+  </g>
+  <g
+     id="gene_0e26538b-30cf-4125-83a4-3613f4d4e624"
+     class="gene"
+     display="inline"
+     transform="translate(-241.49014,19.111442)">
+    <polygon
+       class="genePolygon group-f89fe4ea-d3e7-49e7-a80b-e3b4d8ad0666"
+       points="594.072,5 594.072,0 599.958,11 594.072,22 594.072,17 "
+       fill="#ff6956"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7192" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,293.99228,-1347.46)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7194">WP_104785790.1</text>
+  </g>
+  <g
+     id="gene_850d7fd8-ee92-4721-b98a-9c89916b9a37"
+     class="gene"
+     display="inline"
+     transform="translate(-241.49014,19.111442)">
+    <polygon
+       class="genePolygon group-df0b3bfc-87dc-49f0-b84c-c758e1394c5f"
+       points="610.944,22 610.944,17 599.886,17 599.886,5 610.944,5 610.944,0 622.944,11 "
+       fill="#f59f30"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7197" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,301.19229,-1379.9371)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7199">WP_104785792.1</text>
+  </g>
+  <g
+     id="gene_b09d019d-120f-4961-90c9-0805b27be782"
+     class="gene"
+     display="inline"
+     transform="translate(-241.49014,19.111442)">
+    <polygon
+       class="genePolygon group-df0b3bfc-87dc-49f0-b84c-c758e1394c5f"
+       points="632.85,22 632.85,17 622.872,17 622.872,5 632.85,5 632.85,0 644.85,11 "
+       fill="#f59f30"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7202" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,312.41529,-1430.5608)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7204">WP_104785793.1</text>
+  </g>
+  <g
+     id="gene_ca0a098f-cf10-4a40-96a3-d6ad13e0e935"
+     class="gene"
+     display="inline"
+     transform="translate(-241.49014,19.111442)">
+    <polygon
+       class="genePolygon group-f2f9a8dc-fd74-41f5-a37f-71544023ac84"
+       points="646.344,5 646.344,0 651.258,11 646.344,22 646.344,17 "
+       fill="#c4d93e"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7207" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,319.88529,-1464.2558)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7209">WP_104785795.1</text>
+  </g>
+  <g
+     id="gene_5987023f-0fd2-4790-a743-646475c89ba5"
+     class="gene"
+     display="inline"
+     transform="translate(-241.49014,19.111442)">
+    <polygon
+       class="genePolygon group-c07efc9d-e3b5-406d-81c5-ea71a61f767b"
+       points="654.684,22 654.684,17 652.536,17 652.536,5 654.684,5 654.684,0 666.684,11 "
+       fill="#83f557"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7212" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,325.2898,-1488.6339)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7214">WP_104785796.1</text>
+  </g>
+  <g
+     id="gene_84a06644-815b-41cb-b22d-76f191a6b5df"
+     class="gene"
+     display="inline"
+     transform="translate(-241.49014,19.111442)">
+    <polygon
+       class="genePolygon group-319f77c1-74f8-401e-9fa0-14a1486c9415"
+       points="672.486,22 672.486,17 667.422,17 667.422,5 672.486,5 672.486,0 684.486,11 "
+       fill="#38f17a"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7217" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,333.4618,-1525.4954)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7219">WP_104785798.1</text>
+  </g>
+  <g
+     id="gene_c00d8021-8b41-4a46-98af-b9d86eacd29a"
+     class="gene"
+     display="inline"
+     transform="translate(-241.49014,19.111442)">
+    <polygon
+       class="genePolygon group-0ea1557a-c698-4b05-aabf-ec720a71d1c2"
+       points="707.964,22 707.964,17 684.54,17 684.54,5 707.964,5 707.964,0 719.964,11 "
+       fill="#f6478d"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7222" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,346.61078,-1584.8067)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7224">WP_104785800.1</text>
+  </g>
+  <g
+     id="gene_0112fa3e-a5d5-4715-876d-f19c44242429"
+     class="gene"
+     display="inline"
+     transform="translate(-241.49014,19.111442)">
+    <polygon
+       class="genePolygon"
+       points="723.804,22 723.804,17 721.656,17 721.656,5 723.804,5 723.804,0 735.804,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7227" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,359.8498,-1644.524)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7229">WP_262346732.1</text>
+  </g>
+  <g
+     id="gene_f9ca3636-1e25-466d-a080-dc6424774894"
+     class="gene"
+     display="inline"
+     transform="translate(-241.49014,19.111442)">
+    <polygon
+       class="genePolygon group-2c694dff-6bd8-4597-b8f5-4d3710b9da34"
+       points="752.766,22 752.766,17 737.118,17 737.118,5 752.766,5 752.766,0 764.766,11 "
+       fill="#29a0dd"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7232" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,370.95578,-1694.6199)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7234">WP_262347038.1</text>
+  </g>
+  <g
+     id="gene_b8f540c9-c6da-4735-88ee-5d1c5d656143"
+     class="gene"
+     display="inline"
+     transform="translate(-241.49014,19.111442)">
+    <polygon
+       class="genePolygon"
+       points="765.018,5 765.018,0 769.284,11 765.018,22 765.018,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7237" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,379.06031,-1731.177)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7239">WP_104785801.1</text>
+  </g>
+  <g
+     id="gene_24822acc-b485-4735-852e-4f18b58212a7"
+     class="gene"
+     display="inline"
+     transform="translate(-241.49014,19.111442)">
+    <polygon
+       class="genePolygon group-9c21bd87-0547-4e38-ae65-617d9ac12b1a"
+       points="780.018,22 780.018,17 769.5,17 769.5,5 780.018,5 780.018,0 792.018,11 "
+       fill="#19d3b5"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7242" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,385.86429,-1761.8678)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7244">WP_104785803.1</text>
+  </g>
+  <g
+     id="gene_b0066b59-1e16-4f4d-8e0c-edc1650d603d"
+     class="gene"
+     display="inline"
+     transform="translate(-241.49014,19.111442)">
+    <polygon
+       class="genePolygon group-d8579973-3844-438b-b745-731e8a8f13d7"
+       points="792.252,5 792.252,0 802.782,11 792.252,22 792.252,17 "
+       fill="#b83cb0"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7247" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,394.24329,-1799.663)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7249">WP_262346733.1</text>
+  </g>
+  <g
+     id="gene_e84b91e8-bc0e-45fb-aab8-9bcff1b0bcdc"
+     class="gene"
+     display="inline"
+     transform="translate(-241.49014,19.111442)">
+    <polygon
+       class="genePolygon"
+       points="802.98,5 802.98,0 814.536,11 802.98,22 802.98,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7252" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,399.8638,-1825.0155)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7254">WP_104785806.1</text>
+  </g>
+  <g
+     id="gene_a9f74eb8-2feb-4703-87e0-83589b01c567"
+     class="gene"
+     display="inline"
+     transform="translate(-241.49014,19.111442)">
+    <polygon
+       class="genePolygon"
+       points="815.694,22 815.694,17 814.464,17 814.464,5 815.694,5 815.694,0 827.694,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7257" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,406.0243,-1852.8037)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7259">WP_104785807.1</text>
+  </g>
+  <g
+     id="gene_20301bf7-4e07-488d-b68b-087c8c394f02"
+     class="gene"
+     display="inline"
+     transform="translate(-241.49014,19.111442)"
+     style="stroke:#008000">
+    <polygon
+       class="genePolygon group-0cbaa3bf-b366-4be8-b988-793c38895f94"
+       points="833.784,22 833.784,17 831.366,17 831.366,5 833.784,5 833.784,0 845.784,11 "
+       fill="#5069d9"
+       style="stroke:#008000;stroke-width:1"
+       id="polygon7262" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,414.77228,-1892.2633)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;stroke:#008000"
+       id="text7264">WP_104785809.1</text>
+  </g>
+  <g
+     id="gene_0692802d-176f-4ce5-8f43-e5e2ec53889d"
+     class="gene"
+     display="inline"
+     transform="translate(-241.49014,19.111442)">
+    <polygon
+       class="genePolygon"
+       points="856.83,22 856.83,17 869.562,17 869.562,5 856.83,5 856.83,0 844.83,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7267" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,424.0828,-1934.2604)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7269">WP_262346734.1</text>
+  </g>
+  <g
+     id="gene_dfbf4a72-4d41-4ff5-98de-9aa4a8d6fb91"
+     class="gene"
+     display="inline"
+     transform="translate(-241.49014,19.111442)">
+    <polygon
+       class="genePolygon"
+       points="881.49,22 881.49,17 886.068,17 886.068,5 881.49,5 881.49,0 869.49,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7272" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,434.3743,-1980.6823)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7274">WP_104785812.1</text>
+  </g>
+  <g
+     id="gene_059e086c-9950-487d-86f1-80a4d67f00f9"
+     class="gene"
+     display="inline"
+     transform="translate(-241.49014,19.111442)">
+    <polygon
+       class="genePolygon"
+       points="898.104,22 898.104,17 900.954,17 900.954,5 898.104,5 898.104,0 886.104,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7277" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,442.2493,-2016.2042)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7279">WP_104785814.1</text>
+  </g>
+  <g
+     id="gene_9b2d53f4-d9d9-48c0-b0cb-de9687093a9f"
+     class="gene"
+     display="inline"
+     transform="translate(-241.49014,19.111442)"
+     style="stroke:#008000">
+    <polygon
+       class="genePolygon"
+       points="915.042,22 915.042,17 937.926,17 937.926,5 915.042,5 915.042,0 903.042,11 "
+       fill="#bbbbbb"
+       style="stroke:#008000;stroke-width:1"
+       id="polygon7282" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,455.72678,-2076.9971)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;stroke:#008000"
+       id="text7284">WP_104785815.1</text>
+  </g>
+  <g
+     id="gene_50ab584b-f499-4fa4-ae12-ecda55352e57"
+     class="gene"
+     display="inline"
+     transform="translate(-241.49014,19.111442)">
+    <polygon
+       class="genePolygon"
+       points="951.492,22 951.492,17 951.858,17 951.858,5 951.492,5 951.492,0 939.492,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7287" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,468.3223,-2133.8119)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7289">WP_146111254.1</text>
+  </g>
+  <g
+     id="gene_8568b4a6-f81a-4cae-8d22-64083e31f78f"
+     class="gene"
+     display="inline"
+     transform="translate(-241.49014,19.111442)">
+    <polygon
+       class="genePolygon"
+       points="968.604,22 968.604,17 957.654,17 957.654,5 968.604,5 968.604,0 980.604,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7292" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,480.04929,-2186.7089)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7294">WP_104785818.1</text>
+  </g>
+  <text
+     class="clusterText"
+     y="109.11145"
+     cursor="pointer"
+     text-anchor="end"
+     style="font-weight:bold;font-size:12px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+     id="text7333"
+     x="117.41984">MBG84.c1.region004</text>
+  <line
+     class="trackBar"
+     x1="127.73725"
+     x2="1013.3013"
+     y1="112.11144"
+     y2="112.11144"
+     style="fill:#111111;stroke:#111111;stroke-width:1"
+     id="line7338" />
+  <g
+     id="gene_6e353a6b-0061-4a4f-9e64-2ff4b47ed8cb"
+     class="gene"
+     display="none"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="9.54,5 9.54,0 -0.018,11 9.54,22 9.54,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7340" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,-2.1347086,-11.717443)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7342">WP_059130291.1</text>
+  </g>
+  <g
+     id="gene_aab7e0bf-83a4-4824-b8c4-15590042c650"
+     class="gene"
+     display="none"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="21.468,22 21.468,17 29.772,17 29.772,5 21.468,5 21.468,0 9.468,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7345" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,5.2947915,-45.229752)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7347">WP_220291312.1</text>
+  </g>
+  <g
+     id="gene_10e5b03d-f6c6-42e0-b22a-33fc952a9e62"
+     class="gene"
+     display="none"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="46.23,22 46.23,17 40.608,17 40.608,5 46.23,5 46.23,0 58.23,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7350" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,20.194291,-112.43705)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7352">MBT84_RS08250</text>
+  </g>
+  <g
+     id="gene_7a00c5eb-890d-4970-9a01-d9314308001c"
+     class="gene"
+     display="none"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="82.338,22 82.338,17 59.238,17 59.238,5 82.338,5 82.338,0 94.338,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7355" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,33.878791,-174.16384)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7357">WP_252125382.1</text>
+  </g>
+  <g
+     id="gene_b1792108-046e-4a4d-ae1e-dc7625d1f8a0"
+     class="gene"
+     display="none"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="107.592,22 107.592,17 97.47,17 97.47,5 107.592,5 107.592,0 119.592,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7360" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,49.750293,-245.75556)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7362">MBT84_RS08260</text>
+  </g>
+  <g
+     id="gene_209a96c6-41d2-470b-b741-dae7fe7fce4a"
+     class="gene"
+     display="none"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="123.156,5 123.156,0 131.418,11 123.156,22 123.156,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7365" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,59.128291,-288.05698)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7367">WP_220291315.1</text>
+  </g>
+  <g
+     id="gene_3ff32266-eefc-439d-972c-ee3e2b41a36f"
+     class="gene"
+     display="none"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="149.334,22 149.334,17 141.894,17 141.894,5 149.334,5 149.334,0 161.334,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7370" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,71.291789,-342.92297)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7372">WP_252125383.1</text>
+  </g>
+  <g
+     id="gene_7d4e460c-cb91-4dd9-8a6e-e5719093b4ff"
+     class="gene"
+     display="none"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="180.162,5 180.162,0 169.74,11 180.162,22 180.162,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7375" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,82.960292,-395.55619)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7377">WP_220291319.1</text>
+  </g>
+  <g
+     id="gene_a61844fa-1211-488b-a644-4040aa2e2b50"
+     class="gene"
+     display="none"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="185.472,5 185.472,0 193.032,11 185.472,22 185.472,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7380" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,90.11079,-427.81)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7382">WP_220291321.1</text>
+  </g>
+  <g
+     id="gene_79e8819c-90d5-4a50-ad8a-af42a2da5c64"
+     class="gene"
+     display="none"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="199.212,22 199.212,17 198.09,17 198.09,5 199.212,5 199.212,0 211.212,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7385" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,97.810291,-462.5402)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7387">WP_234381048.1</text>
+  </g>
+  <g
+     id="gene_9991e713-6fc5-4223-8d0f-3d9e4c363abb"
+     class="gene"
+     display="none"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="210.948,22 210.948,17 210.15,17 210.15,5 210.948,5 210.948,0 222.948,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7390" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,103.75929,-489.37439)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7392">WP_220291324.1</text>
+  </g>
+  <g
+     id="gene_07ad9b6c-4d07-4f8b-8bf9-a703ae4c10c8"
+     class="gene"
+     display="none"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="232.272,5 232.272,0 225.09,11 232.272,22 232.272,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7395" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,109.82529,-516.73636)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7397">WP_220291326.1</text>
+  </g>
+  <g
+     id="gene_14242751-e338-4555-9ee4-a8357ce64ec7"
+     class="gene"
+     display="none"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="247.314,22 247.314,17 253.116,17 253.116,5 247.314,5 247.314,0 235.314,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7400" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,117.59229,-551.77103)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7402">MBT84_RS08300</text>
+  </g>
+  <g
+     id="gene_850f3ca4-af55-4aa4-83bf-9238d5208084"
+     class="gene"
+     display="none"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="265.044,22 265.044,17 278.532,17 278.532,5 265.044,5 265.044,0 253.044,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7405" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,128.37879,-600.42578)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7407">WP_220291328.1</text>
+  </g>
+  <g
+     id="gene_96215350-b4f7-4d12-81ad-c6829cccfa61"
+     class="gene"
+     display="none"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="297.264,22 297.264,17 301.734,17 301.734,5 297.264,5 297.264,0 285.264,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7410" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,142.23429,-662.9239)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7412">WP_220291330.1</text>
+  </g>
+  <g
+     id="gene_a96c17e4-cf04-4b07-a2dc-e9925d8030ce"
+     class="gene"
+     display="none"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="301.086,5 301.086,0 311.778,11 301.086,22 301.086,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7415" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,148.70079,-692.09243)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7417">WP_220291332.1</text>
+  </g>
+  <g
+     id="gene_63ffc1a7-4324-48d5-b796-9d0595c7be9f"
+     class="gene"
+     display="none"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="320.424,22 320.424,17 317.142,17 317.142,5 320.424,5 320.424,0 332.424,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7420" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,157.87628,-733.48039)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7422">WP_252125384.1</text>
+  </g>
+  <g
+     id="gene_69ccd8e2-0ea1-4bf9-a466-19c0567a5d42"
+     class="gene"
+     display="none"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="350.652,22 350.652,17 359.01,17 359.01,5 350.652,5 350.652,0 338.652,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7425" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,169.90029,-787.71716)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7427">WP_252125385.1</text>
+  </g>
+  <g
+     id="gene_e451eaa2-8dab-4fc0-ac92-d6ada07174a7"
+     class="gene"
+     display="none"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="373.872,22 373.872,17 376.02,17 376.02,5 373.872,5 373.872,0 361.872,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7430" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,179.9578,-833.08366)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7432">MBT84_RS08330</text>
+  </g>
+  <g
+     id="gene_2e558a60-04c7-44eb-b148-30a253d0e42a"
+     class="gene"
+     display="none"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="377.316,5 377.316,0 387.522,11 377.316,22 377.316,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7435" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,186.69429,-863.47003)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7437">WP_252125386.1</text>
+  </g>
+  <g
+     id="gene_95a32742-c61b-4480-a766-3300b7c27d5e"
+     class="gene"
+     display="inline"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="418.272,22 418.272,17 398.142,17 398.142,5 418.272,5 418.272,0 430.272,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7440" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,202.58829,-935.16322)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7442">WP_220291336.1</text>
+  </g>
+  <g
+     id="gene_90a88e33-1370-4a9f-8b51-a206108e5d7a"
+     class="gene"
+     display="inline"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="451.68,22 451.68,17 435.546,17 435.546,5 451.68,5 451.68,0 463.68,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7445" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,220.29129,-1015.0163)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7447">WP_252125387.1</text>
+  </g>
+  <g
+     id="gene_9a2d6447-4acb-4a0f-a5cd-e61ddc673c47"
+     class="gene"
+     display="inline"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="472.914,5 472.914,0 466.596,11 472.914,22 472.914,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7450" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,230.36229,-1060.4436)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7452">MBT84_RS08350</text>
+  </g>
+  <g
+     id="gene_b0a5d711-ee8d-4714-9299-06362c92022b"
+     class="gene"
+     display="inline"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="493.59,22 493.59,17 501.732,17 501.732,5 493.59,5 493.59,0 481.59,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7455" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,241.3153,-1109.8494)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7457">WP_220291338.1</text>
+  </g>
+  <g
+     id="gene_8b36ce7d-6c23-4493-b7f5-4f87f18136ff"
+     class="gene"
+     display="inline"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon group-be5af633-cb85-4713-a4a1-df1b8ae1e8f0"
+       points="515.622,22 515.622,17 532.08,17 532.08,5 515.622,5 515.622,0 503.622,11 "
+       fill="#6e40aa"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7460" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,254.41028,-1168.9171)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7462">WP_252124725.1</text>
+  </g>
+  <g
+     id="gene_598ab0ed-4b31-437b-bc39-289289d98a7a"
+     class="gene"
+     display="inline"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon group-d8579973-3844-438b-b745-731e8a8f13d7"
+       points="543.42,5 543.42,0 532.62,11 543.42,22 543.42,17 "
+       fill="#b83cb0"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7465" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,264.49478,-1214.4054)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7467">WP_220291339.1</text>
+  </g>
+  <g
+     id="gene_2286a022-c74d-41f6-9b5c-9aa8c1cbb42f"
+     class="gene"
+     display="inline"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="546.828,22 546.828,17 545.562,17 545.562,5 546.828,5 546.828,0 558.828,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7470" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,271.58228,-1246.375)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7472">MBT84_RS08370</text>
+  </g>
+  <g
+     id="gene_8c49f271-ddb6-421f-a84f-5b0b11717d19"
+     class="gene"
+     display="inline"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="564.486,22 564.486,17 561.15,17 561.15,5 564.486,5 564.486,0 576.486,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7475" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,279.8938,-1283.8658)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7477">WP_220291340.1</text>
+  </g>
+  <g
+     id="gene_63553ac8-8a45-43b7-b884-5cb6e249d589"
+     class="gene"
+     display="inline"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon group-0ea1557a-c698-4b05-aabf-ec720a71d1c2"
+       points="596.814,22 596.814,17 582.192,17 582.192,5 596.814,5 596.814,0 608.814,11 "
+       fill="#f6478d"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7480" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,293.2363,-1344.05)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7482">WP_220291341.1</text>
+  </g>
+  <g
+     id="gene_91186d3e-91db-4f37-af1c-4a3b0934d2cd"
+     class="gene"
+     display="inline"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon group-f89fe4ea-d3e7-49e7-a80b-e3b4d8ad0666"
+       points="609.21,5 609.21,0 615.096,11 609.21,22 609.21,17 "
+       fill="#ff6956"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7485" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,301.56128,-1381.6015)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7487">WP_059130313.1</text>
+  </g>
+  <g
+     id="gene_de0fd065-fe88-433e-84e0-b1789d882d5b"
+     class="gene"
+     display="inline"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon group-df0b3bfc-87dc-49f0-b84c-c758e1394c5f"
+       points="626.082,22 626.082,17 615.024,17 615.024,5 626.082,5 626.082,0 638.082,11 "
+       fill="#f59f30"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7490" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,308.76129,-1414.0787)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7492">WP_220291343.1</text>
+  </g>
+  <g
+     id="gene_438238d3-9b82-46e9-98bf-0157df1bd39a"
+     class="gene"
+     display="inline"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon group-df0b3bfc-87dc-49f0-b84c-c758e1394c5f"
+       points="648.096,22 648.096,17 638.01,17 638.01,5 648.096,5 648.096,0 660.096,11 "
+       fill="#f59f30"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7495" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,320.01129,-1464.8242)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7497">WP_220291345.1</text>
+  </g>
+  <g
+     id="gene_ae598926-9aac-4554-bb4d-2170ee1cc624"
+     class="gene"
+     display="inline"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon group-f2f9a8dc-fd74-41f5-a37f-71544023ac84"
+       points="663.408,5 663.408,0 668.268,11 663.408,22 663.408,17 "
+       fill="#c4d93e"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7500" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,328.40378,-1502.6802)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7502">WP_220291347.1</text>
+  </g>
+  <g
+     id="gene_084c7980-7026-4f40-97b9-e7f4040e08d8"
+     class="gene"
+     display="inline"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon group-c07efc9d-e3b5-406d-81c5-ea71a61f767b"
+       points="674.898,22 674.898,17 672.75,17 672.75,5 674.898,5 674.898,0 686.898,11 "
+       fill="#83f557"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7505" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,335.39679,-1534.2237)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7507">WP_059130317.1</text>
+  </g>
+  <g
+     id="gene_b5f645bf-260d-4eb2-8607-e06a08c2b4bd"
+     class="gene"
+     display="inline"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon group-319f77c1-74f8-401e-9fa0-14a1486c9415"
+       points="692.484,22 692.484,17 687.636,17 687.636,5 692.484,5 692.484,0 704.484,11 "
+       fill="#38f17a"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7510" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,343.5148,-1570.8416)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7512">WP_220291350.1</text>
+  </g>
+  <g
+     id="gene_7ed7bdf9-09a6-4af0-8b48-56a2cc16bb2d"
+     class="gene"
+     display="inline"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon group-0ea1557a-c698-4b05-aabf-ec720a71d1c2"
+       points="728.484,22 728.484,17 704.52,17 704.52,5 728.484,5 728.484,0 740.484,11 "
+       fill="#f6478d"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7515" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,356.73578,-1630.4776)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7517">WP_220291352.1</text>
+  </g>
+  <g
+     id="gene_84277cd8-98b9-46b6-bbae-8f20ef836d84"
+     class="gene"
+     display="inline"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon group-9c21bd87-0547-4e38-ae65-617d9ac12b1a"
+       points="750.714,22 750.714,17 740.844,17 740.844,5 750.714,5 750.714,0 762.714,11 "
+       fill="#19d3b5"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7520" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,371.3743,-1696.5077)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7522">WP_220291355.1</text>
+  </g>
+  <g
+     id="gene_19693668-7113-4d41-84dc-19d61240d2dd"
+     class="gene"
+     display="inline"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="775.032,22 775.032,17 763.758,17 763.758,5 775.032,5 775.032,0 787.032,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7525" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,383.18228,-1749.7701)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7527">WP_220291357.1</text>
+  </g>
+  <g
+     id="gene_4cca6e6e-7d0f-4168-aab8-bd129232abdc"
+     class="gene"
+     display="inline"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="797.352,22 797.352,17 787.482,17 787.482,5 797.352,5 797.352,0 809.352,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7530" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,394.6933,-1801.6929)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7532">WP_220291359.1</text>
+  </g>
+  <g
+     id="gene_c1392ed6-7b60-493f-a7a4-f7f00ee31f21"
+     class="gene"
+     display="inline"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="809.28,5 809.28,0 819.486,11 809.28,22 809.28,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7535" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,402.6763,-1837.7019)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7537">WP_252125388.1</text>
+  </g>
+  <g
+     id="gene_20c1447c-1178-4b2e-9dc9-033a8977c603"
+     class="gene"
+     display="inline"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="827.88,22 827.88,17 819.522,17 819.522,5 827.88,5 827.88,0 839.88,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7540" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,410.3353,-1872.2494)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7542">WP_252125389.1</text>
+  </g>
+  <g
+     id="gene_0476ff7e-5624-4327-ad9f-2900a90fb684"
+     class="gene"
+     display="inline"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="847.554,22 847.554,17 840.33,17 840.33,5 847.554,5 847.554,0 859.554,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7545" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,420.45578,-1917.9)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7547">WP_220291363.1</text>
+  </g>
+  <g
+     id="gene_5fa89357-5213-466d-a34a-68621c6de56f"
+     class="gene"
+     display="inline"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="865.194,22 865.194,17 859.482,17 859.482,5 865.194,5 865.194,0 877.194,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7550" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,429.65378,-1959.3895)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7552">WP_220291365.1</text>
+  </g>
+  <g
+     id="gene_48d6a94b-5393-465d-b420-ea8937a09a38"
+     class="gene"
+     display="inline"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="884.112,22 884.112,17 878.13,17 878.13,5 884.112,5 884.112,0 896.112,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7555" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,439.04529,-2001.7518)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7557">WP_252125390.1</text>
+  </g>
+  <g
+     id="gene_ffca6090-7b9b-40ad-b2a5-ed52c23bb42f"
+     class="gene"
+     display="inline"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="907.53,22 907.53,17 896.04,17 896.04,5 907.53,5 907.53,0 919.53,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7560" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,449.37729,-2048.3565)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7562">WP_220291369.1</text>
+  </g>
+  <g
+     id="gene_2e2a4f3e-a71f-450b-a734-47930741a409"
+     class="gene"
+     display="inline"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="922.11,22 922.11,17 920.34,17 920.34,5 922.11,5 922.11,0 934.11,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7565" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,459.09729,-2092.2006)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7567">WP_220291371.1</text>
+  </g>
+  <g
+     id="gene_65fb982e-a3fa-46c8-b4b7-a32319092ef5"
+     class="gene"
+     display="inline"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="940.812,22 940.812,17 935.64,17 935.64,5 940.812,5 940.812,0 952.812,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7570" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,467.59778,-2130.5438)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7572">WP_220291373.1</text>
+  </g>
+  <g
+     id="gene_a33ca13d-fb19-4ab8-80d8-dd17c5269e4d"
+     class="gene"
+     display="inline"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="967.2,22 967.2,17 953.982,17 953.982,5 967.2,5 967.2,0 979.2,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7575" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,478.78028,-2180.9848)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7577">WP_220291374.1</text>
+  </g>
+  <g
+     id="gene_f2519231-df01-4d5d-a1db-7047f2924d47"
+     class="gene"
+     display="inline"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="984.354,22 984.354,17 979.128,17 979.128,5 984.354,5 984.354,0 996.354,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7580" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,489.35529,-2228.6856)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7582">WP_220291375.1</text>
+  </g>
+  <g
+     id="gene_d37de19a-3b7f-4c0e-9fdf-794ea490c7aa"
+     class="gene"
+     display="inline"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="1001.718,5 1001.718,0 1010.034,11 1001.718,22 1001.718,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7585" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,498.42279,-2269.5864)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7587">WP_252125391.1</text>
+  </g>
+  <g
+     id="gene_6871e9a8-866e-4459-843e-feb1f49fdf5a"
+     class="gene"
+     display="inline"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon group-2c694dff-6bd8-4597-b8f5-4d3710b9da34"
+       points="1026.96,22 1026.96,17 1010.286,17 1010.286,5 1026.96,5 1026.96,0 1038.96,11 "
+       fill="#29a0dd"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7590" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,507.7963,-2311.8676)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7592">WP_220291377.1</text>
+  </g>
+  <g
+     id="gene_a45fc1a4-9fe4-4360-bc05-25c39cc09255"
+     class="gene"
+     display="inline"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="1039.662,5 1039.662,0 1051.65,11 1039.662,22 1039.662,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7595" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,518.31278,-2359.3043)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7597">WP_220291378.1</text>
+  </g>
+  <g
+     id="gene_72b8fbd8-daa2-422c-b529-ecfc44362e92"
+     class="gene"
+     display="inline"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="1071.06,22 1071.06,17 1054.494,17 1054.494,5 1071.06,5 1071.06,0 1083.06,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7600" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,529.87326,-2411.4503)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7602">WP_220291379.1</text>
+  </g>
+  <g
+     id="gene_dda4245b-2ae2-47ce-a62b-dc20f1a00743"
+     class="gene"
+     display="inline"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="1085.166,5 1085.166,0 1093.05,11 1085.166,22 1085.166,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7605" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,540.03879,-2457.3041)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7607">WP_220291380.1</text>
+  </g>
+  <g
+     id="gene_9ad02ea0-9a3a-4db1-87e5-d68ed590f886"
+     class="gene"
+     display="inline"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="1094.886,5 1094.886,0 1099.044,11 1094.886,22 1094.886,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7610" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,543.96732,-2475.0245)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7612">WP_059126563.1</text>
+  </g>
+  <g
+     id="gene_f94a99ce-91f3-44ef-89e0-203508a58ab8"
+     class="gene"
+     display="inline"
+     transform="translate(-270.40474,101.11144)"
+     style="stroke:#008000">
+    <polygon
+       class="genePolygon group-0cbaa3bf-b366-4be8-b988-793c38895f94"
+       points="1115.022,22 1115.022,17 1115.928,17 1115.928,5 1115.022,5 1115.022,0 1103.022,11 "
+       fill="#5069d9"
+       style="stroke:#008000;stroke-width:1"
+       id="polygon7615" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,550.22226,-2503.2387)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;stroke:#008000"
+       id="text7617">WP_234380640.1</text>
+  </g>
+  <g
+     id="gene_a5c7a8b2-1e8e-4d95-88ea-5cecdf701df2"
+     class="gene"
+     display="inline"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="1149.522,22 1149.522,17 1128.204,17 1128.204,5 1149.522,5 1149.522,0 1161.522,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7620" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,567.91629,-2583.0513)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7622">MBT84_RS08520</text>
+  </g>
+  <g
+     id="gene_318194d0-8a18-4eff-a33f-a1d252125c41"
+     class="gene"
+     display="inline"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="1169.088,22 1169.088,17 1161.378,17 1161.378,5 1169.088,5 1169.088,0 1181.088,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7625" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,581.10129,-2642.525)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7627">WP_220291381.1</text>
+  </g>
+  <g
+     id="gene_abe34b4f-4acf-43a8-a0a8-bee2bca2aa27"
+     class="gene"
+     display="inline"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="1199.73,22 1199.73,17 1200.96,17 1200.96,5 1199.73,5 1199.73,0 1187.73,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7630" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,592.65732,-2694.6509)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7632">MBT84_RS46880</text>
+  </g>
+  <g
+     id="gene_deaa0622-613b-41ee-b995-390bbcb0f7db"
+     class="gene"
+     display="inline"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="1208.61,5 1208.61,0 1199.97,11 1208.61,22 1208.61,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7635" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,597.62979,-2717.0803)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7637">WP_252126552.1</text>
+  </g>
+  <g
+     id="gene_01fe41e0-bf9b-4cd9-a8a5-6172eed60516"
+     class="gene"
+     display="inline"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="1220.538,22 1220.538,17 1224.09,17 1224.09,5 1220.538,5 1220.538,0 1208.538,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7640" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,603.64182,-2744.1988)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7642">WP_220291382.1</text>
+  </g>
+  <g
+     id="gene_34be5dd6-b423-4d58-8fe0-5d5f62d552d4"
+     class="gene"
+     display="inline"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="1235.79,5 1235.79,0 1224.018,11 1235.79,22 1235.79,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7645" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,610.4368,-2774.849)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7647">MBT84_RS08540</text>
+  </g>
+  <g
+     id="gene_a7ad39a7-312a-4ba3-aa2c-99deca400280"
+     class="gene"
+     display="inline"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="1247.718,22 1247.718,17 1248.03,17 1248.03,5 1247.718,5 1247.718,0 1235.718,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7650" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,616.42179,-2801.8455)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7652">WP_252125392.1</text>
+  </g>
+  <g
+     id="gene_0fe78771-1745-4208-84c2-59c5ba447793"
+     class="gene"
+     display="inline"
+     transform="translate(-270.40474,101.11144)"
+     style="stroke:#008000">
+    <polygon
+       class="genePolygon group-0cbaa3bf-b366-4be8-b988-793c38895f94"
+       points="1251.954,5 1251.954,0 1263.888,11 1251.954,22 1251.954,17 "
+       fill="#5069d9"
+       style="stroke:#008000;stroke-width:1"
+       id="polygon7655" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,624.44529,-2838.0371)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;stroke:#008000"
+       id="text7657">WP_252125393.1</text>
+  </g>
+  <g
+     id="gene_3a7e31bc-6abf-4d06-a403-f14be2b2f355"
+     class="gene"
+     display="inline"
+     transform="translate(-270.40474,101.11144)"
+     style="stroke:#008000">
+    <polygon
+       class="genePolygon"
+       points="1271.706,22 1271.706,17 1263.69,17 1263.69,5 1271.706,5 1271.706,0 1283.706,11 "
+       fill="#bbbbbb"
+       style="stroke:#008000;stroke-width:1"
+       id="polygon7660" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,632.33377,-2873.6198)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;stroke:#008000"
+       id="text7662">MBT84_RS08555</text>
+  </g>
+  <g
+     id="gene_d6e5276c-63dc-4479-b907-652f02838962"
+     class="gene"
+     display="none"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="1297.434,22 1297.434,17 1304.388,17 1304.388,5 1297.434,5 1297.434,0 1285.434,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7665" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,642.94028,-2921.4627)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7667">WP_220291384.1</text>
+  </g>
+  <g
+     id="gene_9e4951e5-7f97-4896-8422-ada0e8559ff3"
+     class="gene"
+     display="none"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="1316.34,5 1316.34,0 1306.458,11 1316.34,22 1316.34,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7670" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,651.1843,-2958.649)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7672">WP_252124726.1</text>
+  </g>
+  <g
+     id="gene_36826e55-79bc-41c4-aaf3-6fbddf3813b5"
+     class="gene"
+     display="none"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="1325.466,5 1325.466,0 1317.636,11 1325.466,22 1325.466,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7675" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,656.26029,-2981.5454)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7677">WP_220291386.1</text>
+  </g>
+  <g
+     id="gene_57e0a2bd-871c-4d63-9b34-1ca79e25237a"
+     class="gene"
+     display="none"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="1337.394,22 1337.394,17 1345.86,17 1345.86,5 1337.394,5 1337.394,0 1325.394,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7680" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,663.29831,-3013.2918)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7682">WP_107116687.1</text>
+  </g>
+  <g
+     id="gene_dc83e00f-29d0-4a7b-8193-0df7ecf7748c"
+     class="gene"
+     display="none"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="1361.67,22 1361.67,17 1351.098,17 1351.098,5 1361.67,5 1361.67,0 1373.67,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7685" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,676.67679,-3073.6382)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7687">WP_220291387.1</text>
+  </g>
+  <g
+     id="gene_ad3c339f-515c-4c4c-ad51-37f309c09858"
+     class="gene"
+     display="none"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="1388.892,22 1388.892,17 1405.44,17 1405.44,5 1388.892,5 1388.892,0 1376.892,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7690" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,691.06778,-3138.5518)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7692">MBT84_RS08585</text>
+  </g>
+  <g
+     id="gene_f8113f86-602c-4b46-bcc0-62e886ddaccc"
+     class="gene"
+     display="none"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="1422.3,22 1422.3,17 1431.684,17 1431.684,5 1422.3,5 1422.3,0 1410.3,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7695" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,705.98081,-3205.8201)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7697">WP_220291388.1</text>
+  </g>
+  <g
+     id="gene_a2fb3998-3e06-4902-9b40-32e788135136"
+     class="gene"
+     display="none"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="1465.836,22 1465.836,17 1445.868,17 1445.868,5 1465.836,5 1465.836,0 1477.836,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7700" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,726.4108,-3297.9739)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7702">WP_252124727.1</text>
+  </g>
+  <g
+     id="gene_28092ce7-194f-4eed-8d4b-1ef596f608c5"
+     class="gene"
+     display="none"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="1490.022,5 1490.022,0 1500.066,11 1490.022,22 1490.022,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7705" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,743.00681,-3372.8336)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7707">WP_059129776.1</text>
+  </g>
+  <g
+     id="gene_45e73f8a-7dcc-4f18-bfd8-277c5afa9075"
+     class="gene"
+     display="none"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="1501.164,5 1501.164,0 1509.858,11 1501.164,22 1501.164,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7710" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,748.24027,-3396.4402)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7712">WP_059129827.1</text>
+  </g>
+  <g
+     id="gene_8b51df46-3bdd-4662-a698-ff70a4e1d3b6"
+     class="gene"
+     display="none"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="1522.434,22 1522.434,17 1524.906,17 1524.906,5 1522.434,5 1522.434,0 1510.434,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7715" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,754.3198,-3423.8632)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7717">WP_252125394.1</text>
+  </g>
+  <g
+     id="gene_e1c1cdf3-c371-46a4-b022-10037d002795"
+     class="gene"
+     display="none"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="1535.82,22 1535.82,17 1528.758,17 1528.758,5 1535.82,5 1535.82,0 1547.82,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7720" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,764.62931,-3470.3664)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7722">WP_220291390.1</text>
+  </g>
+  <g
+     id="gene_813497d0-bbf0-4e58-9831-c0a36b4ee3d9"
+     class="gene"
+     display="none"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="1548.342,5 1548.342,0 1557.9,11 1548.342,22 1548.342,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7725" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,772.04532,-3503.8179)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7727">WP_059129779.1</text>
+  </g>
+  <g
+     id="gene_b9113d53-f41f-4c3b-9a43-14aa5ad72a29"
+     class="gene"
+     display="none"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="1564.08,22 1564.08,17 1557.018,17 1557.018,5 1564.08,5 1564.08,0 1576.08,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7730" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,778.75931,-3534.1027)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7732">WP_252125395.1</text>
+  </g>
+  <g
+     id="gene_f439cbd9-577e-4947-9f40-61334b07497d"
+     class="gene"
+     display="none"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="1581.03,5 1581.03,0 1585.404,11 1581.03,22 1581.03,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7735" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,787.0933,-3571.6949)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7737">WP_059129781.1</text>
+  </g>
+  <g
+     id="gene_5fb3ee88-ff18-484f-95c0-357b751c4c07"
+     class="gene"
+     display="none"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="1600.824,22 1600.824,17 1607.544,17 1607.544,5 1600.824,5 1600.824,0 1588.824,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7740" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,794.57682,-3605.4509)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7742">MBT84_RS08635</text>
+  </g>
+  <g
+     id="gene_e74e132f-480f-44be-a729-a67228258f82"
+     class="gene"
+     display="none"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="1619.472,22 1619.472,17 1622.538,17 1622.538,5 1619.472,5 1619.472,0 1607.472,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7745" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,802.98728,-3643.388)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7747">WP_220291391.1</text>
+  </g>
+  <g
+     id="gene_0821f30d-6dee-4387-878d-901b1388974d"
+     class="gene"
+     display="none"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="1639.86,22 1639.86,17 1623.51,17 1623.51,5 1639.86,5 1639.86,0 1651.86,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7750" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,814.3273,-3694.5396)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7752">WP_220291392.1</text>
+  </g>
+  <g
+     id="gene_0a8ccbe7-97cf-4817-a540-31fdb0fdfe8c"
+     class="gene"
+     display="none"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="1657.662,22 1657.662,17 1651.788,17 1651.788,5 1657.662,5 1657.662,0 1669.662,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7755" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,825.84726,-3746.5028)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7757">WP_220291393.1</text>
+  </g>
+  <g
+     id="gene_1e66ef4a-3a82-4b4f-bef8-322b0ee4bcc7"
+     class="gene"
+     display="none"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="1674.06,22 1674.06,17 1669.59,17 1669.59,5 1674.06,5 1674.06,0 1686.06,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7760" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,834.39731,-3785.0695)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7762">WP_115976694.1</text>
+  </g>
+  <g
+     id="gene_f80c5f5c-5a88-43d0-a8b3-dd12b7b3b3b4"
+     class="gene"
+     display="none"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="1689.216,22 1689.216,17 1685.988,17 1685.988,5 1689.216,5 1689.216,0 1701.216,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7765" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,842.2858,-3820.6522)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7767">WP_220291395.1</text>
+  </g>
+  <g
+     id="gene_94040a26-e4e8-45e0-b14c-f7afbaf01f1d"
+     class="gene"
+     display="none"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="1704.804,22 1704.804,17 1701.144,17 1701.144,5 1704.804,5 1704.804,0 1716.804,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7770" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,849.97177,-3855.3214)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7772">WP_220291397.1</text>
+  </g>
+  <g
+     id="gene_d5b9a54b-b29d-474e-8fea-44f706d756c1"
+     class="gene"
+     display="none"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="1729.002,22 1729.002,17 1733.904,17 1733.904,5 1729.002,5 1729.002,0 1717.002,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7775" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,858.21128,-3892.4874)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7777">WP_252125396.1</text>
+  </g>
+  <g
+     id="gene_e2ab2bac-8f27-45ab-ab47-f58cdc362e12"
+     class="gene"
+     display="none"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="1736.79,22 1736.79,17 1735.29,17 1735.29,5 1736.79,5 1736.79,0 1748.79,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7780" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,866.50479,-3929.897)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7782">WP_252125397.1</text>
+  </g>
+  <g
+     id="gene_4f43df3d-55e7-4fa7-9c18-62a1dde9609b"
+     class="gene"
+     display="none"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="1758.354,22 1758.354,17 1750.068,17 1750.068,5 1758.354,5 1758.354,0 1770.354,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7785" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,875.5903,-3970.8791)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7787">MBT84_RS08680</text>
+  </g>
+  <g
+     id="gene_4a7231b8-c511-435d-badc-fdbc7b4611f0"
+     class="gene"
+     display="none"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="1770.282,5 1770.282,0 1778.166,11 1770.282,22 1770.282,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7790" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,882.59677,-4002.4833)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7792">WP_220291403.1</text>
+  </g>
+  <g
+     id="gene_d33fda2a-7c73-40d7-bb9f-04ea81e05879"
+     class="gene"
+     display="none"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="1808.316,5 1808.316,0 1801.242,11 1808.316,22 1808.316,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7795" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,897.8743,-4071.3957)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7797">WP_220291405.1</text>
+  </g>
+  <g
+     id="gene_ff75a07f-0cce-4e1f-bcbc-3646f93cf4e0"
+     class="gene"
+     display="none"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="1812.078,5 1812.078,0 1816.992,11 1812.078,22 1812.078,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7800" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,902.75229,-4093.3989)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7802">WP_059129793.1</text>
+  </g>
+  <g
+     id="gene_74d2bc03-70a5-4081-bcb7-55fc923dfd58"
+     class="gene"
+     display="none"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="1827.126,5 1827.126,0 1821.402,11 1827.126,22 1827.126,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7805" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,907.61679,-4115.3413)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7807">WP_220291407.1</text>
+  </g>
+  <g
+     id="gene_6ba5204c-82a6-456d-aea8-1d808f339a20"
+     class="gene"
+     display="none"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="1838.088,5 1838.088,0 1834.47,11 1838.088,22 1838.088,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7810" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,913.6243,-4142.4394)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7812">WP_059129795.1</text>
+  </g>
+  <g
+     id="gene_a13e123a-cf90-494c-a7fd-d51eb5700ea6"
+     class="gene"
+     display="none"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="1844.586,5 1844.586,0 1853.496,11 1844.586,22 1844.586,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7815" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,920.00528,-4171.2221)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7817">WP_252125398.1</text>
+  </g>
+  <g
+     id="gene_932867f6-a3e8-47ac-bed7-917d5ca772f2"
+     class="gene"
+     display="none"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="1863.564,22 1863.564,17 1854.126,17 1854.126,5 1863.564,5 1863.564,0 1875.564,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7820" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,927.90732,-4206.8659)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7822">WP_252125399.1</text>
+  </g>
+  <g
+     id="gene_98c56f38-0a62-449d-9bb3-f741c2df058e"
+     class="gene"
+     display="none"
+     transform="translate(-270.40474,101.11144)">
+    <polygon
+       class="genePolygon"
+       points="1885.416,22 1885.416,17 1882.998,17 1882.998,5 1885.416,5 1885.416,0 1897.416,11 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon7825" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,940.58829,-4264.0661)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text7827">WP_220291412.1</text>
+  </g>
+  <g
+     id="g12914"
+     transform="translate(612.53405,49.009462)">
+    <g
+       class="colourBar"
+       opacity="1"
+       transform="translate(75.770208,133.46536)"
+       id="g7925">
+      <defs
+         id="defs7911">
+        <linearGradient
+           id="cbarGradient"
+           x1="0"
+           x2="42.426407"
+           gradientTransform="scale(3.5355339,0.28284271)"
+           y1="0"
+           y2="0"
+           gradientUnits="userSpaceOnUse">
+          <stop
+             class="startStop"
+             offset="0%"
+             stop-color="rgb(255, 255, 255)"
+             id="stop7906" />
+          <stop
+             class="endStop"
+             offset="100%"
+             stop-color="rgb(0, 0, 0)"
+             id="stop7908" />
+        </linearGradient>
+      </defs>
+      <g
+         class="cbarParts"
+         id="g7923">
+        <rect
+           class="colourBarBG"
+           width="150"
+           height="12"
+           style="fill:#ffffff;stroke:#000000;stroke-width:1px"
+           id="rect7913"
+           x="0"
+           y="0" />
+        <rect
+           class="colourBarFill"
+           width="150"
+           height="12"
+           style="fill:url(#cbarGradient)"
+           id="rect7915"
+           x="0"
+           y="0" />
+        <text
+           class="labelText"
+           text-anchor="middle"
+           y="17"
+           x="75"
+           style="font-size:13.3333px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;dominant-baseline:hanging"
+           id="text7917">Identity (%)</text>
+        <text
+           class="startText"
+           text-anchor="start"
+           y="17"
+           style="font-size:13.3333px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;dominant-baseline:hanging"
+           id="text7919">0</text>
+        <text
+           class="endText"
+           text-anchor="end"
+           y="17"
+           x="150"
+           style="font-size:13.3333px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;dominant-baseline:hanging"
+           id="text7921">100</text>
+      </g>
+    </g>
+    <g
+       class="scaleBar"
+       opacity="1"
+       transform="translate(10.788206,133.46536)"
+       id="g7935">
+      <line
+         class="flatBar"
+         x2="44.981998"
+         y1="6"
+         y2="6"
+         style="stroke:#000000;stroke-width:1"
+         id="line7927"
+         x1="0" />
+      <line
+         class="leftBar"
+         y2="12"
+         style="stroke:#000000;stroke-width:1"
+         id="line7929"
+         x1="0"
+         y1="0"
+         x2="0" />
+      <line
+         class="rightBar"
+         x1="44.981998"
+         x2="44.981998"
+         y2="12"
+         style="stroke:#000000;stroke-width:1"
+         id="line7931"
+         y1="0" />
+      <text
+         class="barText"
+         text-anchor="middle"
+         cursor="pointer"
+         x="22.490999"
+         y="17"
+         style="font-size:13.3333px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;dominant-baseline:hanging"
+         id="text7933">2.5kb</text>
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Oblique';text-align:center;text-anchor:middle;fill:#ff6600"
+     x="135.9381"
+     y="16.260773"
+     id="text12918"><tspan
+       sodipodi:role="line"
+       id="tspan12916"
+       x="135.9381"
+       y="16.260773"
+       style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Oblique';fill:#000000;fill-opacity:1">orf1</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Oblique';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+     x="157.24669"
+     y="16.260773"
+     id="text12922"><tspan
+       sodipodi:role="line"
+       id="tspan12920"
+       x="157.24669"
+       y="16.260773">orf2</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Oblique';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+     x="178.64696"
+     y="16.260773"
+     id="text12926"><tspan
+       sodipodi:role="line"
+       id="tspan12924"
+       x="178.64696"
+       y="16.260773">orf3</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Oblique';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+     x="190.31416"
+     y="6.078125"
+     id="text12930"><tspan
+       sodipodi:role="line"
+       id="tspan12928"
+       x="190.31416"
+       y="6.078125">lugM</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Oblique';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+     x="205.48262"
+     y="16.260773"
+     id="text12934"><tspan
+       sodipodi:role="line"
+       id="tspan12932"
+       x="205.48262"
+       y="16.260773">lugRI</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Oblique';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+     x="219.68785"
+     y="6.078125"
+     id="text13040"><tspan
+       sodipodi:role="line"
+       id="tspan13038"
+       x="219.68785"
+       y="6.078125">lugRII</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Oblique';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+     x="241.82768"
+     y="16.260773"
+     id="text13044"><tspan
+       sodipodi:role="line"
+       id="tspan13042"
+       x="241.82768"
+       y="16.260773">lugRIII</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Oblique';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+     x="261.80954"
+     y="6.078125"
+     id="text13048"><tspan
+       sodipodi:role="line"
+       id="tspan13046"
+       x="261.80954"
+       y="6.078125">lugTI</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Oblique';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+     x="283.91684"
+     y="16.260773"
+     id="text13052"><tspan
+       sodipodi:role="line"
+       id="tspan13050"
+       x="283.91684"
+       y="16.260773">lugX</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Oblique';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+     x="311.50406"
+     y="16.260773"
+     id="text13056"><tspan
+       sodipodi:role="line"
+       id="tspan13054"
+       x="311.50406"
+       y="16.260773">lugN</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Oblique';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+     x="336.14462"
+     y="16.260773"
+     id="text13060"><tspan
+       sodipodi:role="line"
+       id="tspan13058"
+       x="336.14462"
+       y="16.260773">lugOI</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Oblique';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+     x="355.37088"
+     y="6.078125"
+     id="text13064"><tspan
+       sodipodi:role="line"
+       id="tspan13062"
+       x="355.37088"
+       y="6.078125">lugF</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Oblique';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+     x="367.49002"
+     y="16.260773"
+     id="text13068"><tspan
+       sodipodi:role="line"
+       id="tspan13066"
+       x="367.49002"
+       y="16.260773">lugA</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Oblique';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+     x="392.85678"
+     y="16.260773"
+     id="text13072"><tspan
+       sodipodi:role="line"
+       id="tspan13070"
+       x="392.85678"
+       y="16.260773">lugB</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Oblique';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+     x="407.20767"
+     y="6.078125"
+     id="text13076"><tspan
+       sodipodi:role="line"
+       id="tspan13074"
+       x="407.20767"
+       y="6.078125">lugC</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Oblique';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+     x="417.03201"
+     y="16.260773"
+     id="text13080"><tspan
+       sodipodi:role="line"
+       id="tspan13078"
+       x="417.03201"
+       y="16.260773">lugD</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Oblique';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+     x="433.73245"
+     y="6.078125"
+     id="text13084"><tspan
+       sodipodi:role="line"
+       id="tspan13082"
+       x="433.73245"
+       y="6.078125">lugE</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Oblique';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+     x="460.8486"
+     y="16.260773"
+     id="text13088"><tspan
+       sodipodi:role="line"
+       id="tspan13086"
+       x="460.8486"
+       y="16.260773">lugOII</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Oblique';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+     x="487.41843"
+     y="16.260773"
+     id="text13092"><tspan
+       sodipodi:role="line"
+       id="tspan13090"
+       x="487.41843"
+       y="16.260773">lugG</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Oblique';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+     x="509.5386"
+     y="16.260773"
+     id="text13096"><tspan
+       sodipodi:role="line"
+       id="tspan13094"
+       x="509.5386"
+       y="16.260773">lugH</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Oblique';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+     x="525.64581"
+     y="6.078125"
+     id="text13100"><tspan
+       sodipodi:role="line"
+       id="tspan13098"
+       x="525.64581"
+       y="6.078125">lugI</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Oblique';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+     x="539.35565"
+     y="16.260773"
+     id="text13104"><tspan
+       sodipodi:role="line"
+       id="tspan13102"
+       x="539.35565"
+       y="16.260773">lugTII</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Oblique';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+     x="556.09753"
+     y="6.078125"
+     id="text13108"><tspan
+       sodipodi:role="line"
+       id="tspan13106"
+       x="556.09753"
+       y="6.078125">lugJ</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Oblique';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+     x="567.34729"
+     y="16.260773"
+     id="text13112"><tspan
+       sodipodi:role="line"
+       id="tspan13110"
+       x="567.34729"
+       y="16.260773">lugOII</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Oblique';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+     x="579.30261"
+     y="6.078125"
+     id="text13116"><tspan
+       sodipodi:role="line"
+       id="tspan13114"
+       x="579.30261"
+       y="6.078125">lugK</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Oblique';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+     x="596.83179"
+     y="16.260773"
+     id="text13120"><tspan
+       sodipodi:role="line"
+       id="tspan13118"
+       x="596.83179"
+       y="16.260773">lugRIV</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Oblique';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+     x="615.55267"
+     y="6.078125"
+     id="text13124"><tspan
+       sodipodi:role="line"
+       id="tspan13122"
+       x="615.55267"
+       y="6.078125">lugTIII</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Oblique';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+     x="636.26849"
+     y="16.260773"
+     id="text13128"><tspan
+       sodipodi:role="line"
+       id="tspan13126"
+       x="636.26849"
+       y="16.260773">lugL</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Oblique';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+     x="651.54584"
+     y="6.078125"
+     id="text13132"><tspan
+       sodipodi:role="line"
+       id="tspan13130"
+       x="651.54584"
+       y="6.078125">lugOIV</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Oblique';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+     x="678.50085"
+     y="16.260773"
+     id="text13136"><tspan
+       sodipodi:role="line"
+       id="tspan13134"
+       x="678.50085"
+       y="16.260773">lugRV</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Oblique';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+     x="703.69183"
+     y="6.078125"
+     id="text13140"><tspan
+       sodipodi:role="line"
+       id="tspan13138"
+       x="703.69183"
+       y="6.078125">lugOV</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Oblique';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+     x="727.86041"
+     y="16.260773"
+     id="text13144"><tspan
+       sodipodi:role="line"
+       id="tspan13142"
+       x="727.86041"
+       y="16.260773">orf4</tspan></text>
+  <g
+     id="g13634"
+     transform="translate(-270.94862,9.6460818)">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000"
+       id="rect13198"
+       width="46.312004"
+       height="12.26004"
+       x="615.06787"
+       y="132.35553" />
+    <text
+       xml:space="preserve"
+       style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Oblique';text-align:center;text-anchor:middle;fill:none;fill-opacity:1;stroke:#000000"
+       x="638.45825"
+       y="141.39766"
+       id="text13610"><tspan
+         sodipodi:role="line"
+         id="tspan13608"
+         x="638.45825"
+         y="141.39766"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#000000;stroke:none">T2PKS</tspan></text>
+  </g>
+  <g
+     id="g13621"
+     transform="translate(-270.94862,9.6460818)">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000"
+       id="rect13612"
+       width="75.876076"
+       height="12.26004"
+       x="764.4978"
+       y="132.35553" />
+    <text
+       xml:space="preserve"
+       style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Oblique';text-align:center;text-anchor:middle;fill:none;fill-opacity:1;stroke:#000000"
+       x="802.42804"
+       y="140.69258"
+       id="text13616"><tspan
+         sodipodi:role="line"
+         id="tspan13614"
+         x="802.42804"
+         y="140.69258"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#000000;stroke:none">oligosaccharide</tspan></text>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     x="143.79527"
+     y="133.38834"
+     id="text15405"><tspan
+       sodipodi:role="line"
+       id="tspan15403"
+       x="143.79527"
+       y="133.38834">RS08340</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     x="1003.2863"
+     y="133.38834"
+     id="text16524"><tspan
+       sodipodi:role="line"
+       id="tspan16522"
+       x="1003.2863"
+       y="133.38834">RS08555</tspan></text>
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:#000000;marker-start:url(#Dot)"
+     d="M 823.35133,128.72424 V 112.161"
+     id="path16580"
+     sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     x="822.43311"
+     y="142.50284"
+     id="text16852"><tspan
+       sodipodi:role="line"
+       id="tspan16850"
+       x="822.43311"
+       y="142.50284">AbrC3 binding site</tspan></text>
+  <g
+     id="g22141"
+     class="gene"
+     display="inline"
+     transform="translate(-388.87681,180.52781)"
+     style="fill:none;stroke:#008000">
+    <path
+       id="polygon22137"
+       class="genePolygon"
+       d="M 959.926,17 V 5 H 915.042 V 0 l -12,11 12,11 v -5 z"
+       sodipodi:nodetypes="cccccccc" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="none"
+       transform="rotate(-25,455.72678,-2076.9971)"
+       font-size="10px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;fill:none;stroke:#008000"
+       id="text22139">WP_104785815.1</text>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     x="546.60718"
+     y="193.73485"
+     id="text22204"><tspan
+       sodipodi:role="line"
+       id="tspan22202"
+       x="546.60718"
+       y="193.73485">Regulatory</tspan></text>
+  <path
+     sodipodi:type="star"
+     style="fill:#000000;fill-opacity:1;stroke:none"
+     id="path22922"
+     inkscape:flatsided="true"
+     sodipodi:sides="3"
+     sodipodi:cx="831.87732"
+     sodipodi:cy="153.79573"
+     sodipodi:r1="8.513669"
+     sodipodi:r2="4.2568345"
+     sodipodi:arg1="0.52359878"
+     sodipodi:arg2="1.5707963"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="m 839.25037,158.05257 -14.7461,0 7.37305,-12.77051 z"
+     inkscape:transform-center-y="-1.6172088"
+     transform="matrix(0.49999961,0,0,0.75981631,426.3984,9.601484)"
+     inkscape:transform-center-x="4.4140304e-06" />
+  <path
+     sodipodi:type="star"
+     style="fill:#000000;fill-opacity:1;stroke:none"
+     id="path22930"
+     inkscape:flatsided="true"
+     sodipodi:sides="3"
+     sodipodi:cx="831.87732"
+     sodipodi:cy="153.79573"
+     sodipodi:r1="8.513669"
+     sodipodi:r2="4.2568345"
+     sodipodi:arg1="0.52359878"
+     sodipodi:arg2="1.5707963"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="m 839.25037,158.05257 -14.7461,0 7.37305,-12.77051 z"
+     inkscape:transform-center-y="-1.6172088"
+     transform="matrix(0.49999961,0,0,0.75981631,240.38836,9.601484)"
+     inkscape:transform-center-x="4.4140304e-06" />
+  <path
+     sodipodi:type="star"
+     style="fill:#000000;fill-opacity:1;stroke:none"
+     id="path22938"
+     inkscape:flatsided="true"
+     sodipodi:sides="3"
+     sodipodi:cx="831.87732"
+     sodipodi:cy="153.79573"
+     sodipodi:r1="8.513669"
+     sodipodi:r2="4.2568345"
+     sodipodi:arg1="0.52359878"
+     sodipodi:arg2="1.5707963"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="m 839.25037,158.05257 -14.7461,0 7.37305,-12.77051 z"
+     inkscape:transform-center-y="-1.6172088"
+     transform="matrix(0.49999961,0,0,0.75981631,22.567395,75.513128)"
+     inkscape:transform-center-x="4.4140304e-06" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     x="466.16031"
+     y="193.73485"
+     id="text22948"><tspan
+       sodipodi:role="line"
+       id="tspan22946"
+       x="466.16031"
+       y="193.73485">TTA codon</tspan></text>
+  <path
+     sodipodi:type="star"
+     style="fill:#000000;fill-opacity:1;stroke:none"
+     id="path22956"
+     inkscape:flatsided="true"
+     sodipodi:sides="3"
+     sodipodi:cx="831.87732"
+     sodipodi:cy="153.79573"
+     sodipodi:r1="8.513669"
+     sodipodi:r2="4.2568345"
+     sodipodi:arg1="0.52359878"
+     sodipodi:arg2="1.5707963"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="m 839.25037,158.05257 -14.7461,0 7.37305,-12.77051 z"
+     inkscape:transform-center-y="-1.6172088"
+     transform="matrix(0.49999961,0,0,0.75981631,-164.41121,-74.127856)"
+     inkscape:transform-center-x="4.4140304e-06" />
+</svg>
